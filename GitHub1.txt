@@ -1,0 +1,1 @@
+Works on a centralized hosting model for sharing and managing repositories online.
