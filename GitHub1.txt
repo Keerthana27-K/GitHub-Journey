@@ -1,1 +1,2 @@
-1. Hosts repositories and manages team collaboration and access control.
+1. Host manages team collaboration and access control.
+2. the process of developing or being developed.
